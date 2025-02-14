@@ -1,0 +1,20 @@
+{
+  "name": "media-license-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain use case in media & entertainment. This is a prototype using Ethereum to improve the media supply chain with focus on content licensing, rights management and payments automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Varun Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.18",
+    "hardhat-deploy": "^0.14.0"
+  }
+}
